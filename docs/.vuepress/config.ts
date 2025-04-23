@@ -6,7 +6,11 @@ import theme from "./theme.js";
 
 export default defineUserConfig({
   // 网站路径默认为主域名。如果网站部署在子路径下，比如 xxx.com/yyy，那么 base 应该被设置为 "/yyy/"
+<<<<<<< HEAD
   base: "/meesu/",
+=======
+  base: "/Meesu/",
+>>>>>>> 0ee37c3bf03a940eb46f8ef101214d6b6a98c7d5
 
   // 网站语言，默认为中文
   lang: "zh-CN",
